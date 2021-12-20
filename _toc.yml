@@ -1,9 +1,0 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
-format: jb-book
-root: README
-chapters:
-- file: chapter-02-car-price/ch-02-regression.md
-  sections:
-    - file: chapter-02-car-price/chapter-02-car-price.ipynb
